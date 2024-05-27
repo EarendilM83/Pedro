@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #1d1d1d;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+.racoon-wrapper{
+    position: relative;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.pedro-head{
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    width: 9.7px;
+    height: 9.7px;
+    background-color: red;
+    box-shadow: 
+    -120px 120px #1d1d1d,
+    -110px 120px #554542,
+    -140px 130px #454545,
+    -130px 130px #1d1d1d,
+    -120px 130px black,
+    -110px 130px black,
+    -100px 130px #807478,
+    -100px 140px rgb(31, 31, 31),
+    -100px 150px rgb(24, 24, 24),
+    -100px 160px rgb(33, 33, 33),
+    -100px 170px rgb(34, 34, 34),
+    -100px 180px rgb(39, 39, 39),
+    -100px 190px rgb(34, 34, 34),
+    -100px 200px rgb(41, 41, 41),
+    -110px 140px rgb(31, 31, 31),
+    
+    -110px 150px rgb(24, 24, 24),
+    -110px 160px rgb(33, 33, 33),
+    -110px 170px rgb(34, 34, 34),
+    -110px 180px rgb(39, 39, 39),
+    -110px 190px rgb(34, 34, 34),
+    -110px 200px rgb(41, 41, 41),
+
+    -120px 140px rgb(31, 31, 31),
+    -120px 150px rgb(24, 24, 24),
+    -120px 160px rgb(33, 33, 33),
+    -120px 170px rgb(34, 34, 34),
+    -120px 180px rgb(39, 39, 39),
+    -120px 190px rgb(34, 34, 34),
+    -120px 200px rgb(41, 41, 41),
+
+    -130px 140px rgb(31, 31, 31),
+    -130px 150px rgb(24, 24, 24),
+    -130px 160px rgb(33, 33, 33),
+    -130px 170px rgb(34, 34, 34),
+    -130px 180px rgb(39, 39, 39),
+    -130px 190px rgb(34, 34, 34),
+    -130px 200px rgb(41, 41, 41);
+
+}
